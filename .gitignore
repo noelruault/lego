@@ -1,1 +1,12 @@
+### lego project ###
 *.png
+*.txt
+tmp/
+
+### VisualStudioCode ###
+# Debugger
+__debug_bin
+
+### Golang ###
+# Binaries
+bin/

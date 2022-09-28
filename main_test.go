@@ -3,8 +3,6 @@ package main
 import (
 	"math"
 	"testing"
-
-	_ "github.com/lib/pq"
 )
 
 var legocolors = []Pixel{
